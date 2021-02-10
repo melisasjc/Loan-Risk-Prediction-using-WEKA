@@ -1,1 +1,2 @@
-# Data-Mining-using-WEKA
+# Loan-Risk-Prediction-using-WEKA
+
