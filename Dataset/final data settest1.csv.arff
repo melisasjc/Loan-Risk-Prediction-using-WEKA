@@ -1,0 +1,212 @@
+@relation 'final data set-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.instance.Resample-B0.0-S0-Z20.0'
+
+@attribute '         AGE' numeric
+@attribute '     GENDER' {male,female}
+@attribute '    HOUSING ' {own,free,rent}
+@attribute ' CREDIT AMOUNT' numeric
+@attribute ' PURPOSE' {radio/TV,education,furniture/equipment,car,business,'domestic appliances',repairs,vacation/others}
+@attribute ' CLASS' {good,bad}
+@attribute '  CREDIT HISTORY ' {'Critical/other credits existing','Existing paid','Delayed previously','No credits/all paid ','All paid'}
+@attribute '       JOB' {Skilled,'Unskilled- Resident',Self-employed,'Unskilled- Non resident'}
+
+@data
+50,female,own,1047,education,good,'Critical/other credits existing','Unskilled- Resident'
+31,male,own,1410,education,good,'No credits/all paid ','Unskilled- Resident'
+25,female,own,5771,radio/TV,good,'Critical/other credits existing',Skilled
+25,male,rent,3213,radio/TV,good,'Existing paid',Skilled
+29,female,own,3990,'domestic appliances',good,'All paid','Unskilled- Non resident'
+41,male,own,6313,car,good,'Existing paid',Self-employed
+57,female,free,2748,education,good,'Critical/other credits existing','Unskilled- Resident'
+54,male,free,1597,education,good,'Critical/other credits existing',Skilled
+58,female,own,385,radio/TV,good,'Critical/other credits existing','Unskilled- Resident'
+23,female,rent,1236,'domestic appliances',good,'Existing paid',Skilled
+31,male,own,9857,business,good,'Delayed previously','Unskilled- Resident'
+52,male,own,717,radio/TV,good,'Critical/other credits existing',Skilled
+52,female,own,362,car,good,'Critical/other credits existing','Unskilled- Resident'
+48,female,rent,1795,radio/TV,good,'Critical/other credits existing','Unskilled- Resident'
+34,male,own,1860,car,good,'Critical/other credits existing',Self-employed
+32,male,own,2848,car,good,'Existing paid',Skilled
+23,female,rent,601,furniture/equipment,good,'Existing paid','Unskilled- Resident'
+35,female,own,3447,education,good,'All paid','Unskilled- Resident'
+31,male,own,3378,car,good,'Existing paid',Skilled
+42,female,rent,1965,car,good,'Delayed previously',Skilled
+31,female,own,9566,radio/TV,good,'Critical/other credits existing',Skilled
+75,female,own,1374,car,good,'Existing paid',Self-employed
+57,male,rent,1264,business,good,'Critical/other credits existing','Unskilled- Resident'
+44,male,own,1478,furniture/equipment,good,'Critical/other credits existing',Skilled
+44,male,own,1163,car,good,'Critical/other credits existing',Skilled
+42,male,own,1455,car,good,'Critical/other credits existing','Unskilled- Resident'
+40,male,own,3077,radio/TV,good,'Critical/other credits existing',Skilled
+35,male,own,1410,business,good,'Existing paid',Skilled
+40,male,rent,1905,education,good,'Existing paid',Self-employed
+24,female,rent,4811,car,good,'Existing paid','Unskilled- Resident'
+24,female,free,5743,education,good,'Critical/other credits existing',Skilled
+27,male,own,1391,business,good,'Existing paid',Skilled
+28,female,own,2073,radio/TV,good,'Existing paid',Skilled
+31,male,own,2406,furniture/equipment,good,'Critical/other credits existing',Self-employed
+35,male,own,2728,radio/TV,good,'Critical/other credits existing',Skilled
+21,male,rent,1766,furniture/equipment,good,'Existing paid',Skilled
+55,female,own,1424,furniture/equipment,good,'Existing paid',Self-employed
+41,male,own,6313,car,good,'Existing paid',Self-employed
+29,male,own,2333,furniture/equipment,good,'Delayed previously','Unskilled- Resident'
+27,male,own,3652,business,good,'Critical/other credits existing',Skilled
+35,male,own,1549,car,good,'Existing paid','Unskilled- Non resident'
+41,male,rent,1469,car,good,'Existing paid','Unskilled- Resident'
+38,male,own,3229,car,good,'Critical/other credits existing',Self-employed
+35,female,own,1592,furniture/equipment,good,'Critical/other credits existing',Skilled
+27,male,own,1995,car,good,'Critical/other credits existing',Skilled
+24,male,own,1800,radio/TV,good,'Critical/other credits existing',Skilled
+37,male,free,2279,radio/TV,good,'Existing paid',Skilled
+34,female,rent,3017,furniture/equipment,good,'Existing paid',Self-employed
+33,female,own,1927,education,good,'Critical/other credits existing',Skilled
+34,male,own,3496,furniture/equipment,good,'All paid',Skilled
+45,male,own,339,education,good,'All paid','Unskilled- Resident'
+44,male,free,5507,repairs,good,'Critical/other credits existing',Skilled
+20,female,rent,4675,car,good,'Existing paid',Skilled
+34,female,own,1493,radio/TV,good,'Existing paid',Skilled
+37,male,own,3878,car,good,'Critical/other credits existing',Skilled
+52,female,free,2133,car,good,'Existing paid',Self-employed
+30,male,own,3566,business,good,'All paid',Skilled
+31,male,own,1360,radio/TV,good,'Critical/other credits existing',Skilled
+47,male,own,1393,education,good,'Existing paid',Skilled
+25,male,rent,3213,radio/TV,good,'Existing paid',Skilled
+31,male,own,2406,furniture/equipment,good,'Critical/other credits existing',Self-employed
+50,male,rent,1236,car,good,'Existing paid',Skilled
+41,male,own,3979,radio/TV,good,'Existing paid',Skilled
+28,male,own,776,radio/TV,good,'Existing paid',Skilled
+35,female,own,10722,car,good,'Existing paid','Unskilled- Resident'
+45,male,own,6761,car,good,'Critical/other credits existing',Self-employed
+23,male,own,882,radio/TV,good,'Critical/other credits existing',Skilled
+21,male,own,1289,furniture/equipment,good,'Existing paid','Unskilled- Resident'
+50,male,own,2241,furniture/equipment,good,'Existing paid',Skilled
+37,female,own,1287,car,good,'Critical/other credits existing',Skilled
+29,male,own,2333,furniture/equipment,good,'Delayed previously','Unskilled- Resident'
+29,male,own,3556,car,good,'Existing paid',Skilled
+45,male,own,3527,car,good,'Existing paid',Self-employed
+50,male,free,7476,education,good,'Existing paid',Self-employed
+25,male,own,5511,furniture/equipment,good,'Existing paid',Skilled
+38,male,free,6681,business,good,'Delayed previously',Skilled
+40,male,own,3857,car,good,'Existing paid',Self-employed
+21,male,rent,1766,furniture/equipment,good,'Existing paid',Skilled
+23,female,rent,1352,car,good,'Existing paid','Unskilled- Non resident'
+54,female,own,672,car,good,'Existing paid','Unskilled- Non resident'
+42,male,own,10366,car,good,'Existing paid',Self-employed
+24,female,rent,1554,radio/TV,good,'Critical/other credits existing',Skilled
+23,male,rent,660,repairs,good,'Existing paid','Unskilled- Resident'
+25,male,own,866,radio/TV,good,'Existing paid','Unskilled- Resident'
+35,male,rent,6948,car,good,'Existing paid',Self-employed
+35,male,own,2346,car,good,'Critical/other credits existing',Skilled
+55,female,free,2578,furniture/equipment,good,'Existing paid',Self-employed
+36,male,own,1238,education,good,'Existing paid',Self-employed
+32,male,own,4526,furniture/equipment,good,'Critical/other credits existing','Unskilled- Resident'
+34,female,own,4454,radio/TV,good,'Delayed previously',Skilled
+45,female,own,2329,radio/TV,good,'Existing paid',Skilled
+38,male,free,6681,business,good,'Delayed previously',Skilled
+24,male,own,2080,car,good,'Critical/other credits existing',Skilled
+38,male,own,1924,radio/TV,good,'Existing paid',Skilled
+38,male,own,7814,car,good,'Existing paid',Self-employed
+43,male,own,2442,business,good,'Critical/other credits existing',Self-employed
+45,male,own,3527,car,good,'Existing paid',Self-employed
+36,male,own,2872,radio/TV,good,'Critical/other credits existing',Skilled
+41,male,own,3979,radio/TV,good,'Existing paid',Skilled
+64,male,rent,2384,radio/TV,good,'Existing paid','Unskilled- Resident'
+39,male,own,7228,car,good,'Critical/other credits existing','Unskilled- Resident'
+27,female,own,1295,furniture/equipment,good,'Critical/other credits existing',Skilled
+58,female,own,385,radio/TV,good,'Critical/other credits existing','Unskilled- Resident'
+52,male,own,3077,radio/TV,good,'Existing paid',Skilled
+51,male,free,2507,car,good,'Existing paid','Unskilled- Resident'
+28,male,own,1413,radio/TV,good,'Existing paid',Skilled
+31,male,own,1393,car,good,'Existing paid',Skilled
+40,male,own,3857,car,good,'Existing paid',Self-employed
+64,female,own,1409,radio/TV,good,'Existing paid',Skilled
+24,female,own,4272,furniture/equipment,good,'Critical/other credits existing',Skilled
+26,female,own,763,furniture/equipment,good,'Existing paid',Skilled
+33,female,own,1474,furniture/equipment,good,'Existing paid',Self-employed
+27,male,own,1995,car,good,'Critical/other credits existing',Skilled
+34,male,own,6614,car,good,'Critical/other credits existing',Self-employed
+40,female,own,894,education,good,'Existing paid',Skilled
+23,male,rent,1297,radio/TV,good,'Existing paid',Skilled
+26,male,own,1311,radio/TV,good,'Existing paid',Skilled
+28,female,own,1382,radio/TV,good,'Critical/other credits existing',Skilled
+41,female,rent,3868,car,good,'Critical/other credits existing',Self-employed
+24,male,own,1747,furniture/equipment,good,'Existing paid','Unskilled- Resident'
+20,male,rent,585,radio/TV,good,'Delayed previously',Skilled
+27,male,own,2463,car,good,'Critical/other credits existing',Skilled
+74,male,own,1299,car,good,'Critical/other credits existing','Unskilled- Non resident'
+27,male,own,4139,business,good,'Critical/other credits existing','Unskilled- Resident'
+25,female,rent,1433,furniture/equipment,good,'Critical/other credits existing',Skilled
+50,male,own,1574,furniture/equipment,good,'Existing paid',Skilled
+19,female,rent,983,furniture/equipment,good,'Existing paid','Unskilled- Resident'
+30,female,own,8358,car,good,'No credits/all paid ',Skilled
+34,male,own,1569,radio/TV,good,'All paid','Unskilled- Resident'
+35,male,own,1941,business,good,'Existing paid','Unskilled- Resident'
+20,female,own,1577,furniture/equipment,good,'Existing paid',Skilled
+22,male,free,3973,car,good,'Existing paid',Skilled
+58,male,own,1867,radio/TV,good,'Existing paid',Skilled
+27,male,own,1391,business,good,'Existing paid',Skilled
+34,female,own,4454,radio/TV,good,'Delayed previously',Skilled
+25,male,own,8072,business,good,'No credits/all paid ',Skilled
+70,male,free,7308,car,good,'Existing paid',Self-employed
+21,male,rent,1766,furniture/equipment,good,'Existing paid',Skilled
+30,male,own,3959,furniture/equipment,good,'Existing paid',Self-employed
+54,male,own,717,car,good,'Delayed previously',Skilled
+25,female,rent,1882,radio/TV,bad,'Existing paid',Skilled
+58,female,free,6143,car,bad,'Critical/other credits existing','Unskilled- Resident'
+29,male,free,2149,radio/TV,bad,'All paid',Skilled
+33,female,own,797,radio/TV,bad,'Critical/other credits existing','Unskilled- Resident'
+46,male,own,697,car,bad,'All paid',Skilled
+34,female,free,1837,education,bad,'All paid','Unskilled- Resident'
+21,female,rent,2570,car,bad,'Existing paid',Skilled
+29,male,free,2149,radio/TV,bad,'All paid',Skilled
+66,male,own,766,radio/TV,bad,'Existing paid','Unskilled- Resident'
+34,female,own,2064,furniture/equipment,bad,'Delayed previously',Self-employed
+24,male,own,2145,business,bad,'Delayed previously',Skilled
+27,female,own,750,education,bad,'Existing paid','Unskilled- Non resident'
+33,male,own,2579,car,bad,'Existing paid','Unskilled- Resident'
+33,male,rent,2235,car,bad,'Critical/other credits existing',Skilled
+27,male,own,3552,furniture/equipment,bad,'All paid',Skilled
+28,male,rent,9398,car,bad,'Existing paid',Self-employed
+25,male,own,14421,business,bad,'No credits/all paid ',Skilled
+27,male,own,3552,furniture/equipment,bad,'All paid',Skilled
+34,male,own,6850,car,bad,'All paid',Self-employed
+34,male,own,11998,repairs,bad,'Existing paid','Unskilled- Resident'
+22,male,own,1331,radio/TV,bad,'Existing paid',Skilled
+30,male,own,4455,business,bad,'Delayed previously',Self-employed
+27,male,own,8648,business,bad,'Delayed previously',Skilled
+23,female,own,4281,furniture/equipment,bad,'Critical/other credits existing',Skilled
+24,female,own,1228,car,bad,'Existing paid','Unskilled- Resident'
+22,female,rent,1366,radio/TV,bad,'Existing paid',Skilled
+25,male,own,4933,radio/TV,bad,'Critical/other credits existing',Skilled
+19,female,rent,1980,furniture/equipment,bad,'Existing paid',Skilled
+34,female,own,2064,furniture/equipment,bad,'Delayed previously',Self-employed
+38,female,free,12976,car,bad,'Existing paid',Self-employed
+40,male,rent,684,education,bad,'Existing paid','Unskilled- Resident'
+25,female,rent,1371,car,bad,'Existing paid',Skilled
+39,male,free,10297,car,bad,'Existing paid',Skilled
+26,male,own,759,car,bad,'Existing paid',Skilled
+29,female,own,915,car,bad,'Existing paid',Skilled
+30,male,free,12680,car,bad,'Critical/other credits existing',Self-employed
+31,male,own,1935,business,bad,'Critical/other credits existing',Skilled
+24,female,rent,11590,car,bad,'Critical/other credits existing','Unskilled- Resident'
+42,male,own,3446,furniture/equipment,bad,'Existing paid',Skilled
+22,female,own,741,'domestic appliances',bad,'Existing paid',Skilled
+48,male,own,1024,radio/TV,bad,'Delayed previously',Skilled
+37,male,own,1344,car,bad,'Critical/other credits existing','Unskilled- Resident'
+34,female,free,1837,education,bad,'All paid','Unskilled- Resident'
+25,male,own,2473,furniture/equipment,bad,'Existing paid','Unskilled- Non resident'
+21,female,rent,3441,furniture/equipment,bad,'Existing paid',Skilled
+27,male,free,1422,car,bad,'Existing paid',Self-employed
+45,male,own,4006,car,bad,'Existing paid','Unskilled- Resident'
+27,male,own,14027,car,bad,'Existing paid',Self-employed
+28,male,own,2169,business,bad,'Delayed previously',Skilled
+45,male,own,8978,car,bad,'Existing paid',Self-employed
+37,male,own,802,radio/TV,bad,'Existing paid',Skilled
+25,female,own,2762,furniture/equipment,bad,'Existing paid',Skilled
+52,male,own,6468,radio/TV,bad,'Existing paid',Self-employed
+25,female,own,1355,car,bad,'Existing paid','Unskilled- Resident'
+29,male,own,5179,furniture/equipment,bad,'Existing paid',Skilled
+28,male,own,5234,car,bad,'Critical/other credits existing',Self-employed
+42,female,own,3804,radio/TV,bad,'No credits/all paid ',Skilled
+29,male,own,6887,education,bad,'Delayed previously',Skilled
+23,female,own,836,car,bad,'Existing paid','Unskilled- Resident'
+34,female,free,1837,education,bad,'All paid','Unskilled- Resident'
