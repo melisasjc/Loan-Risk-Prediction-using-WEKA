@@ -11,4 +11,4 @@ Based on the attributes, classify a person as good or bad credit risk.
 Weka application
 
 ## Results 
-Added the screenshots to the below file
+Added the screenshots to this + [`Models Implemented`](/Models_Implemented/) file 
