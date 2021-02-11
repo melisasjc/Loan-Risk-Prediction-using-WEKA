@@ -16,7 +16,7 @@ A91 : male\
 A92 : female\
 A93 : male\
 A94 : male\
-A95 : female\
+A95 : female
 
 (qualitative)\
 Housing\
