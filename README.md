@@ -69,4 +69,4 @@ See the Description file attached to the repository for further details on the d
 Weka application
 
 ## Results 
-Added the screenshots to this + [`Models_Implemented`](/Models Implemented/): Scripts and instructions on annotating images
+Added the screenshots to this + [`Models Implemented`](/Models Implemented/) Scripts and instructions on annotating images
