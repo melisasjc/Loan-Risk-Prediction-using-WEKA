@@ -62,7 +62,7 @@ A34 : critical account/ other credits existing (not at this bank)
 See the Description file attached to the repository for further details on the data. Source:https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 
 ## Algorithms Used 
-1. J48\
+1. J48
 2. RandomForest
 
 ## Software Used
