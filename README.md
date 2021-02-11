@@ -22,7 +22,7 @@ A95 : female
 Housing\
 A151 : rent\
 A152 : own\
-A153 : for free\
+A153 : for free
 
 (numerical)
 Credit amount
