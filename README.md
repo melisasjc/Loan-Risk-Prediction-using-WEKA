@@ -15,14 +15,14 @@ sex\
 A91 : male\
 A92 : female\
 A93 : male\
-A94 : male\ 
+A94 : male\
 A95 : female\
 
 (qualitative)\
 Housing\
-A151 : rent
-A152 : own
-A153 : for free
+A151 : rent\
+A152 : own\
+A153 : for free\
 
 (numerical)
 Credit amount
