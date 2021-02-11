@@ -6,20 +6,20 @@ Based on the attributes, classify a person as good or bad credit risk.
 ## Dataset 
 The dataset consists of 1000 datatpoints each with 8 variables (dimensions) 2 are numerical and 6 are categorical.
 
-Class 
-a : good customer
-b : bad customer
+Class\
+a : good customer\
+b : bad customer 
 
-(qualitative)
-sex
-A91 : male 
-A92 : female
-A93 : male 
-A94 : male 
-A95 : female
+(qualitative)\
+sex\
+A91 : male\
+A92 : female\
+A93 : male\
+A94 : male\ 
+A95 : female\
 
-(qualitative)
-Housing
+(qualitative)\
+Housing\
 A151 : rent
 A152 : own
 A153 : for free
@@ -48,7 +48,7 @@ A45 : repairs
 A46 : education
 A47 : (vacation - does not exist?)
 A48 : retraining
-A49 : business
+A49 : business\
 A410 : others
 
 (qualitative)
