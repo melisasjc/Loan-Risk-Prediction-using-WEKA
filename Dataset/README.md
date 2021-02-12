@@ -1,4 +1,4 @@
-## Dataset 
+## Dataset Description
 The dataset consists of 1000 datatpoints each with 8 variables (dimensions) 2 are numerical and 6 are categorical.
 
 Class\
